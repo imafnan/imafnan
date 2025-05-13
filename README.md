@@ -104,4 +104,3 @@ A passionate Front end web developer from Bangladesh
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
