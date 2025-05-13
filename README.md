@@ -1,33 +1,23 @@
-
 ### **Hi 👋, I'm Afnan Alam (Anan)**
    A passionate Front end web developer from Bangladesh  
 <div align="right">
 <img src="" align="right" height="" width="600" />
 </div>  
-  
 
 ### <div align="center"></div>  
-  
 
 - 🌱 React.js, Tailwind Css, Redux, Firebase, JavaScript, Css & HTML5  
-  
 
 - ⚙️ Redux, API fetching and full responsive.  
-  
 
 - 📖 I am currently learning Next.js , Node.js , Express.js , MongoDB.  
-  
 
 - ✉️ You can contact me at afnanalamanan@gmail.com  
-  
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -45,9 +35,7 @@
 
 </td><td valign="top" width="33%">
 
-
-
-### Backend  
+### I am currently learning...
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
@@ -57,12 +45,9 @@
 
 </td><td valign="top" width="33%">
 
-
-
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -82,35 +67,50 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=imafnan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
+## Most Used Languages  
+<div align="center">
+    <h3 style="color:red">Most Used Languages</h3>
+    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4;">
+        <div style="height: 20px; width: 46.56%; background-color: yellow;"></div>
+        <span style="position: absolute; margin-left: 5px; color: black;">JavaScript 46.56%</span>
+    </div>
+    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4;">
+        <div style="height: 20px; width: 38.10%; background-color: red;"></div>
+        <span style="position: absolute; margin-left: 5px; color: white;">HTML 38.10%</span>
+    </div>
+    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4;">
+        <div style="height: 20px; width: 11.30%; background-color: purple;"></div>
+        <span style="position: absolute; margin-left: 5px; color: white;">CSS 11.30%</span>
+    </div>
+    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4;">
+        <div style="height: 20px; width: 4.05%; background-color: pink;"></div>
+        <span style="position: absolute; margin-left: 5px; color: white;">SCSS 4.05%</span>
+    </div>
+</div>  
 
 <br/>  
 
-  
+## Recent Blog Posts  
+
+<br/>  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=imafnan&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
 
-
 <br />
 
-----
+----  
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
