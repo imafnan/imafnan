@@ -27,7 +27,7 @@ A passionate Front end web developer from Bangladesh
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🌱 React.js, Tailwind Css, Redux, Firebase, JavaScript, Css & HTML5  
   
