@@ -43,7 +43,7 @@ A passionate Front end web developer from Bangladesh
 - ✉️ You can contact me at afnanalamanan@gmail.com  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 
