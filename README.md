@@ -35,7 +35,7 @@
 
 </td><td valign="top" width="33%">
 
-### I am currently learning...
+### I am currently learning...  
 <div align="center">  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
@@ -77,22 +77,22 @@
 
 ## Most Used Languages  
 <div align="center">
-    <h3 style="color:red">Most Used Languages</h3>
-    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4;">
-        <div style="height: 20px; width: 46.56%; background-color: yellow;"></div>
-        <span style="position: absolute; margin-left: 5px; color: black;">JavaScript 46.56%</span>
+    <h3 style="color:red; font-size: 24px;">Most Used Languages</h3>
+    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4; border-radius: 10px; position: relative;">
+        <div style="height: 20px; width: 46.56%; background-color: yellow; border-radius: 10px;"></div>
+        <span style="position: absolute; margin-left: 5px; color: black; font-weight: bold;">JavaScript 46.56%</span>
     </div>
-    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4;">
-        <div style="height: 20px; width: 38.10%; background-color: red;"></div>
-        <span style="position: absolute; margin-left: 5px; color: white;">HTML 38.10%</span>
+    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4; border-radius: 10px; position: relative;">
+        <div style="height: 20px; width: 38.10%; background-color: red; border-radius: 10px;"></div>
+        <span style="position: absolute; margin-left: 5px; color: white; font-weight: bold;">HTML 38.10%</span>
     </div>
-    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4;">
-        <div style="height: 20px; width: 11.30%; background-color: purple;"></div>
-        <span style="position: absolute; margin-left: 5px; color: white;">CSS 11.30%</span>
+    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4; border-radius: 10px; position: relative;">
+        <div style="height: 20px; width: 11.30%; background-color: purple; border-radius: 10px;"></div>
+        <span style="position: absolute; margin-left: 5px; color: white; font-weight: bold;">CSS 11.30%</span>
     </div>
-    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4;">
-        <div style="height: 20px; width: 4.05%; background-color: pink;"></div>
-        <span style="position: absolute; margin-left: 5px; color: white;">SCSS 4.05%</span>
+    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4; border-radius: 10px; position: relative;">
+        <div style="height: 20px; width: 4.05%; background-color: pink; border-radius: 10px;"></div>
+        <span style="position: absolute; margin-left: 5px; color: white; font-weight: bold;">SCSS 4.05%</span>
     </div>
 </div>  
 
@@ -112,5 +112,5 @@
 
 <br />
 
-----  
+----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
