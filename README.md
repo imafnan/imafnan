@@ -78,23 +78,22 @@
 ## Most Used Languages  
 <div align="center">
     <h3 style="color:red; font-size: 24px;">Most Used Languages</h3>
-    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4; border-radius: 10px; position: relative;">
+    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4; border-radius: 10px;">
         <div style="height: 20px; width: 46.56%; background-color: yellow; border-radius: 10px;"></div>
-        <span style="position: absolute; margin-left: 5px; color: black; font-weight: bold;">JavaScript 46.56%</span>
+        <div style="display: flex; justify-content: space-between; margin-top: 5px;">
+            <span style="color: yellow;">JavaScript 46.56%</span>
+            <span style="color: purple;">CSS 11.30%</span>
+        </div>
     </div>
-    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4; border-radius: 10px; position: relative;">
+    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4; border-radius: 10px;">
         <div style="height: 20px; width: 38.10%; background-color: red; border-radius: 10px;"></div>
-        <span style="position: absolute; margin-left: 5px; color: white; font-weight: bold;">HTML 38.10%</span>
+        <div style="display: flex; justify-content: space-between; margin-top: 5px;">
+            <span style="color: red;">HTML 38.10%</span>
+            <span style="color: pink;">SCSS 4.05%</span>
+        </div>
     </div>
-    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4; border-radius: 10px; position: relative;">
-        <div style="height: 20px; width: 11.30%; background-color: purple; border-radius: 10px;"></div>
-        <span style="position: absolute; margin-left: 5px; color: white; font-weight: bold;">CSS 11.30%</span>
-    </div>
-    <div style="width: 80%; margin: 10px 0; padding: 5px; background-color: #f4f4f4; border-radius: 10px; position: relative;">
-        <div style="height: 20px; width: 4.05%; background-color: pink; border-radius: 10px;"></div>
-        <span style="position: absolute; margin-left: 5px; color: white; font-weight: bold;">SCSS 4.05%</span>
-    </div>
-</div>  
+</div>
+
 
 <br/>  
 
