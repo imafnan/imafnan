@@ -9,7 +9,7 @@ A passionate Front end web developer from Bangladesh
 <a href="https://www.facebook.com/profile.php?id=100075081511990&rdid=x0foXAs1aw1dY8rO&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1C4WYWP8PP%2F#" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/afnan_alam_99" target="_blank">
+<a href="https://instagram.com/itsanan.0" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/imafnan" target="_blank">
