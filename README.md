@@ -1,6 +1,6 @@
 <!-- Banner / Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Afnan+Alam+(Anan);Front-end+Web+Developer;React+%7C+Tailwind+%7C+Redux+%7C+Firebase;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Afnan+Alam+(Anan);Front-end+Web+Developer;React+%7C+Tailwind+%7C+Redux+%7C+Firebase;Next.js+%7C+Node.js+%7C+Express+%7C+MongoDB;Always+Learning+New+Things!" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,23 +29,26 @@
   <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,js,git,firebase,figma,nodejs,ts,nextjs,postman,express,mongodb,mysql,astro,redis" />
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imafnan&theme=radical" alt="streak stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=imafnan&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imafnan&theme=radical&hide_border=true&background=000000" alt="streak stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imafnan&show_icons=true&theme=radical&hide_border=true&bg_color=000000" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imafnan&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imafnan&layout=compact&theme=radical&hide_border=true&bg_color=000000" height="180px"/>
 </p>
 
 ---
 
-## ⚡ Fun Animation  
+## ⚡ Fun Animations  
 <p align="center">
+  <!-- Snake Contribution Animation -->
+  <img src="https://github.com/imafnan/imafnan/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+
+  <!-- Matrix Style -->
   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="matrix animation" />
 </p>
 
