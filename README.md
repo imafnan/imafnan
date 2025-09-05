@@ -12,9 +12,11 @@
 - ✉️ Reach me at **afnanalamanan@gmail.com**
 
 ---
-
 ## 🌐 Connect with Me  
 <p align="center">
+  <a href="https://anan-a.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
+  </a>
   <a href="https://facebook.com/profile.php?id=100075081511990" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000&cacheSeconds=3600" />
   </a>
@@ -31,6 +33,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
