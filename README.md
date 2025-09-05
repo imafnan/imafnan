@@ -68,11 +68,7 @@
 
 ---
 
-## ⚡ Fun Animations  
-<p align="center">
-  <!-- Matrix Style Animation -->
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="matrix animation" />
-</p>
+
 
 <p align="center">
   <!-- Profile Views Counter (Dynamic) -->
