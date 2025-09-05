@@ -44,10 +44,7 @@
   <img src="https://skillicons.dev/icons?i=,nodejs,ts,nextjs,postman,express,mongodb,mysql,astro,redis" />
 </p>
 
-<!-- Snake animation under tools -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/imafnan/imafnan/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+
 
 ---
 
