@@ -44,8 +44,9 @@
 
 ## Currently learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=,nodejs,ts,nextjs,postman,express,mongodb,mysql,astro,redis" />
+  <img src="https://skillicons.dev/icons?i=,nodejs,ts,nextjs,postman,express,mongodb,mysql,astro,redis,docker" />
 </p>
+
 
 
 
