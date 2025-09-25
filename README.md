@@ -62,10 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imafnan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180px"/>
 </p>
 
-<!-- Activity Graph Animation -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imafnan&theme=react-dark&hide_border=true&bg_color=0D1117" alt="activity graph" />
-</p>
+
 
 ---
 
