@@ -39,13 +39,9 @@
 
 ## 🛠️ Languages & Tools (Animated)  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,js,git,firebase,figma" />
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,js,git,firebase,figma,nodejs,ts,nextjs,postman,express,mongodb,mysql,astro,redis,docke" />
 </p>
 
-## Currently learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=,nodejs,ts,nextjs,postman,express,mongodb,mysql,astro,redis,docker" />
-</p>
 
 
 
