@@ -50,7 +50,6 @@
 
 ## 📊 GitHub Stats (Animated)  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imafnan&theme=radical&hide_border=true&background=0D1117" alt="streak stats" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=imafnan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180px"/>
 </p>
 
