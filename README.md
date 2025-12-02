@@ -1,18 +1,22 @@
 <!-- Typing Banner Animation -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Afnan+Alam+(Anan);Front-end+Web+Developer;React+%7C+Tailwind+%7C+Redux+%7C+Firebase;Next.js+%7C+Node.js+%7C+Express+%7C+MongoDB;Always+Learning+New+Things!" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🌱 Skilled in **React.js, Tailwind CSS, Redux, Firebase, JavaScript, CSS & HTML5**  
-- ⚡ Building **full responsive UIs** with **API fetching & state management**  
-- 📖 Currently learning **Next.js, Node.js, Express.js & MongoDB**  
-- ✉️ Reach me at **afnanalamanan@gmail.com**
+## 🚀 About Me
+
+* 🌱 Skilled in **React.js, Tailwind CSS, Redux, Firebase, JavaScript, CSS & HTML5**
+* ⚡ Building **fully responsive UIs** with **API fetching & state management**
+* 📖 Currently learning **Next.js, Node.js, Express.js & MongoDB**
+* ✉️ Reach me at **[afnanalamanan@gmail.com](mailto:afnanalamanan@gmail.com)**
 
 ---
-## 🌐 Connect with Me  
+
+## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://anan-a.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
@@ -34,36 +38,53 @@
   </a>
 </p>
 
+---
+
+## 🛠️ Languages & Tools (Animated)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,js,git,firebase,figma,nodejs,ts,nextjs,postman,express,mongodb,mysql,astro,redis,docker,shadcn" />
+</p>
 
 ---
 
-## 🛠️ Languages & Tools (Animated)  
+## 📊 GitHub Stats (Animated)
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,html,css,js,git,firebase,figma,nodejs,ts,nextjs,postman,express,mongodb,mysql,astro,redis,docke,shedcn" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imafnan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" height="180px" />
 </p>
 
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imafnan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&cache_seconds=1800" height="180px" />
+</p>
 
 ---
-
-## 📊 GitHub Stats (Animated)  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imafnan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imafnan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180px"/>
-</p>
-
-
-
----
-
-
 
 <p align="center">
   <!-- Profile Views Counter (Dynamic) -->
   <img src="https://komarev.com/ghpvc/?username=imafnan&style=for-the-badge&color=00C2FF" alt="Profile Views"/>
 </p>
+
+---
+
+## ✅ Notes & Troubleshooting
+
+* If GitHub stats **still don't display**, try opening the images directly in the browser. If they return an error, there may be a temporary outage or IP-based block.
+* If the badges show but look broken on GitHub profile, make sure there are no duplicate sections (this README uses a single GitHub Stats block).
+* The `cache_seconds` query parameter helps reduce rate-limit problems — adjust to a higher value (e.g., 86400) if you prefer less frequent updates.
+
+---
+
+## 📌 Want me to update your README on GitHub?
+
+If you want, I can:
+
+* Clean up the entire README and remove duplicate sections.
+* Produce a compact mobile-friendly version.
+* Create a `README-light.md` (smaller image sizes) if profile load is slow.
+
+Just say **“update README on GitHub”** and give me **repo URL** + **branch (if not main)** and I’ll prepare a ready-to-paste version.
+
+---
+
+*Made with ❤️ for @imafnan*
