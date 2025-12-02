@@ -67,24 +67,4 @@
 
 ---
 
-## ✅ Notes & Troubleshooting
 
-* If GitHub stats **still don't display**, try opening the images directly in the browser. If they return an error, there may be a temporary outage or IP-based block.
-* If the badges show but look broken on GitHub profile, make sure there are no duplicate sections (this README uses a single GitHub Stats block).
-* The `cache_seconds` query parameter helps reduce rate-limit problems — adjust to a higher value (e.g., 86400) if you prefer less frequent updates.
-
----
-
-## 📌 Want me to update your README on GitHub?
-
-If you want, I can:
-
-* Clean up the entire README and remove duplicate sections.
-* Produce a compact mobile-friendly version.
-* Create a `README-light.md` (smaller image sizes) if profile load is slow.
-
-Just say **“update README on GitHub”** and give me **repo URL** + **branch (if not main)** and I’ll prepare a ready-to-paste version.
-
----
-
-*Made with ❤️ for @imafnan*
