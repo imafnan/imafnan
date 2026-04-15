@@ -20,7 +20,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://anan-a.vercel.app/" target="_blank">
+  <a href="https://afnanalamanan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://facebook.com/profile.php?id=100075081511990" target="_blank">
