@@ -32,10 +32,10 @@
   <a href="https://github.com/imafnan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://twitter.com/afnan_alam_99" target="_blank">
+  <a href="https://twitter.com/AnanAlamAnan" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/afnan-alam-anan-608552339" target="_blank">
+  <a href="https://www.linkedin.com/in/afnan-alam-anan-6a20b0403/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
